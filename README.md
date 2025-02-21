@@ -1,7 +1,7 @@
 # spring-docker-mysql-microservice
 
 This Repo has 
-1. Creating containers for mysql
+1. Creating docker containers for mysql
 2. Running the liquibase scripts to create the schema and tables
 3. Running the spring boot application with the local profile
 
